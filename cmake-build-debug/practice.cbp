@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="practice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zidongliu/CLionProjects/practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zidongliu/CLionProjects/practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zidongliu/CLionProjects/practice/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practice">
+				<Option output="/Users/zidongliu/CLionProjects/practice/cmake-build-debug/practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zidongliu/CLionProjects/practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 practice"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practice/fast">
+				<Option output="/Users/zidongliu/CLionProjects/practice/cmake-build-debug/practice" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zidongliu/CLionProjects/practice/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 practice/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zidongliu/CLionProjects/practice/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/List_functions.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P051_N_Queens.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P052_N_Queens_2.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P053_Maximum Subarray.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P054_Spiral_Matrix.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P055_Jump_Game.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P059_Spiral_Matrix_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P060_Permutation_Sequence.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P061_Rotate_List.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P062_possible_path.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P063_unique_path_2.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P064_minimum_sum_path.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P066_Plus_one.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P067_Add_Binary.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P068_Text_justification.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P069_sqrtx.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P070_Climbing_Stairs.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P072_Edit_Distance.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P073_Set_Matrix_Zeroes.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P074_Search_a_2D_Matrix.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P075_Sort_Colors.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P076_Minimum_Window_Substring.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P077_Combinations.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P078_Subsets.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P079_Word_Search.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P080_Remove_Duplicates_from_Sorted_Array_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P081_Search_in_Rotated_Sorted_Array_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P082_Remove_Duplicates_from_Sorted_List_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P083_Remove_Duplicates_from_Sorted_List.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P084_Largest_Rectangle_in_Histogram.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P085_Maximal_Rectangle.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P086_Partition_List.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P087_Scramble_String.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P0883_Projection_Area_of_3D_Shapes.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P088_Merge_Sorted_Array.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P089_Gray_Code.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P090_Subsets_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P091_Decode_Ways.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P092_Reverse_Linked_List_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P094_BinaryTreeInorder_Traversal.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P095_Unique_Binary_Search_Trees_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P096_Interleaving_String.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P096_Unique_Binary_Search_Trees.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P097_Validate_Binary_Search_Tree.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P098_Recover_Binary_Search_Tree.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P100_Same_Tree.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P101_Symmetric_Tree.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P10_regular_expression.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P11_Container.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P12_int2roam.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P13_roam2int.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P14_long_pre.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P15_3sum.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P16_3sum_closet.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P17_lettercomb.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P18_4sum.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P19_remove_nth_fromlist.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P1_twoSum.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P20_valid_parenthesis.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P21_merge2sortedlist.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P22_generate_parenthesis.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P23_mergerKsortedList.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P24_swap2pair.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P25_reverseKgroup.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P26_remove_duplicates_fromarray.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P27_remove_elem.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P28_str_str.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P29_divide2nums.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P2_add2num.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P300_LongestIncreasingSubstring.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P30_substring_concat.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P31_NextPermutation.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P32_Longest_valid_parenthesis.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P33_search_in_rotated_sorted_array.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P34_Find_first_last_range_elem.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P35_Search_Insert_Position.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P36_Valid_Sudoku.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P37_Sudoku_Solver.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P38_Count_and_Say.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P39_Combination_Sum.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P3_longest_substring.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P40_Combination_Sum_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P41_First Missing Positive.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P42_Trapping_Rain_Water.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P43_Multiply_Strings.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P44_Wildcard_Matching.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P45Jump Game_II.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P46_Combination.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P47_Permutation_2.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P48_Rotate Image.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P49_Group_Anagrams.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P4_medianof2sortedarray.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P50_Pow.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P56_Merge_Intervals.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P57_Insert_Interval.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P58_Length_of_Last_word.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P5_longest_pandolime.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P6_Zigzag.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P7_reverseint.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P880_Decoded_String_at_Index.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P881_Boats_to_Save_People.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P882_Reachable_Nodes_In_Subdivided_Graph.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P884_Uncommon_Words_from_Two_Sentences.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P885_Sparital_Mat.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P886_Possible_Bipartition.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P888.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P889.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P890.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P891_Sum of Subsequence Widths.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P896_Monotonic_Array.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P897.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P898.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P899_Orderly_Queue.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P8_myatoi.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/P9_panlindrome_or_not.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/Sorting_algorithms.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/Tree_functions.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/extra_total_possibilitoies.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/main.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/tree_print.cpp">
+			<Option target="practice"/>
+		</Unit>
+		<Unit filename="/Users/zidongliu/CLionProjects/practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
